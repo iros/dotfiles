@@ -1,0 +1,18 @@
+[user]
+  name = Irene Ros
+  email = WAT IS IT?
+[color "sh"]
+  branch = cyan
+  workdir = yellow bold
+  dirty = red
+[color]
+  sh = auto
+  ui = true
+[github]
+  user = iros
+  token = WAT IS IT?
+[core]
+  editor = /usr/bin/vim
+  excludesfile = /Users/iros/.gitignore
+[alias]
+  ll = log --graph --oneline --decorate --date-order --all
